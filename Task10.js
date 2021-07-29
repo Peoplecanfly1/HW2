@@ -12,4 +12,4 @@
 
 let classAsync = new Musican("https://jsonplaceholder.typicode.com/albums");
 
-// classAsync.getAlbums()
+classAsync.getAlbums()

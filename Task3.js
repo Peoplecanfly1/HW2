@@ -5,4 +5,4 @@
   
 }
 
-// delay(1000).then((value) => console.log(`Done with ${value}`));
+delay(1000).then((value) => console.log(`Done with ${value}`));

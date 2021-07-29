@@ -10,4 +10,4 @@ export default async function getUsersAsync(url) {
   }
 }
 
-// getUsersAsync("https://jsonplaceholder.typicode.com/users");
+getUsersAsync("https://jsonplaceholder.typicode.com/users");

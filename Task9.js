@@ -5,4 +5,4 @@ export default async function asyncBarFoo(){
     console.log(result)
 }
 
-// asyncBarFoo()
+asyncBarFoo()

@@ -10,4 +10,4 @@ export default async function fooAsync() {
     console.log(value1 * (value2 + value3))
 }
 
-// fooAsync()
+fooAsync()

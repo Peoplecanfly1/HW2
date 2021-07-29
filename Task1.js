@@ -14,4 +14,4 @@ export default function foo(x, cb) {
   }
 }
 
-// foo(16, createCb("someStr"));
+foo(16, createCb("someStr"));

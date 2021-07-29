@@ -25,4 +25,4 @@ export default function getAllDataSequence(arr) {
   });
 }
 
-// getAllDataSequence(links);
+getAllDataSequence(links);

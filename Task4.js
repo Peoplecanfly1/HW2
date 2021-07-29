@@ -11,4 +11,4 @@ export default function getUserData() {
     .then((value) => console.log(value));
 }
 
-// getUserData();
+getUserData();

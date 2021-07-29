@@ -15,4 +15,4 @@ function successCB(JSONresult) {
   console.log("sucsessParse", JSONresult);
 }
 
-// parseJSON('{"x":10}', successCB, failureCB);
+parseJSON('{"x":10}', successCB, failureCB);
